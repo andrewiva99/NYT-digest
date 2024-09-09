@@ -1,0 +1,3 @@
+Article:{page_content}
+Source:{web_url}
+Publication date(year-month-day):{pub_date}
