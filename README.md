@@ -3,7 +3,7 @@
 [Docker Hub](https://hub.docker.com/repository/docker/andreybg/nyt-digest/general)
 
 
-NYT Digest is a web application for searching and summarizing articles from The New York Times, powered by **Streamlit**. 
+NYT Digest is a web application for searching and summarizing articles from The New York Times, powered by **Streamlit**. You can ask a question about world events and receive a brief summary of the news with links to related articles.
 - The application is built on the RAG architecture using **Langchain** capabilities.
 - The generative model used is **Gemini 1.5 Flash**, while **Chroma** serves as the vector database for storing and retrieving data.
 - The dataset ```data_20240101_20240831.json``` comprises 14,000 records collected via the [NYT API](https://developer.nytimes.com/apis) between January 1, 2024, and August 31, 2024.
