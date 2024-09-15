@@ -10,5 +10,10 @@ NYT Digest is a web application for searching and summarizing articles from The 
 
 
 You can also run the application using a **Docker container**:
+```bash
+docker pull andreybg/nyt-digest
+```
 
-```docker run -p 8501:8501 andreybg/nyt-digest```
+```bash
+docker run -p 8501:8501 andreybg/nyt-digest
+```
